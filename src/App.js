@@ -3,7 +3,7 @@ import ContactCard from './ContactCard.js';
 
 function App() {
   return (
-    <div >
+    <div className="contacts">
       <ContactCard/>
     </div>
     
